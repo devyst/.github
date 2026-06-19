@@ -33,7 +33,6 @@ We design from scratch. We ship in weeks. We don't disappear after launch.
 ## Services
 
 | | |
-|---|---|
 | Agentic AI Systems | Workflow Automation |
 | AI Chatbots | Full-Stack Development |
 | Custom SaaS | AI Integrations |
