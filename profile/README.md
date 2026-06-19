@@ -24,7 +24,7 @@ We design from scratch. We ship in weeks. We don't disappear after launch.
 
 - AI is a tool, not a strategy
 - Good software solves a real problem or it shouldn't exist
-- The best systems run without you — that's the goal
+- The best systems run without you, that's the goal
 - Simplicity is harder than complexity and worth the effort
 - Working software beats impressive demos every time
 
@@ -75,5 +75,3 @@ We design from scratch. We ship in weeks. We don't disappear after launch.
 *Free 30-minute discovery call. We reply within one business day.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer&animation=fadeIn" width="100%" />
-
-</div>profile/README.md
