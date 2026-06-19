@@ -34,10 +34,10 @@ We design from scratch. We ship in weeks. We don't disappear after launch.
 
 | | |
 |---|---|
-| 🤖 Agentic AI Systems | ⚡ Workflow Automation |
-| 💬 AI Chatbots | 🌐 Full-Stack Development |
-| 🚀 Custom SaaS | 🔗 AI Integrations |
-| 📱 Social Media Marketing | 🎬 Video Production |
+| Agentic AI Systems | Workflow Automation |
+| AI Chatbots | Full-Stack Development |
+| Custom SaaS | AI Integrations |
+| Social Media Marketing | Video Production |
 
 <br />
 
